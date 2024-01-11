@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jg7pVAIsrY2kNg5o801O9KxBIZTjhF77UgLEtnMPuqQ=",
+  "Source": "TestApi.NetForemost",
+  "BasePath": "_content/TestApi.NetForemost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

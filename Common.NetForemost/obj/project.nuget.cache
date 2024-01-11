@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IyjvMxRRFrO+Y/b1PIQaOfKirXZHtgyQAgdnPAPGAKN2j2loHITUxFAhc2uK0foFifiWjYcOoyRD2cJ+0Su1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oscar Jimenez\\source\\repos\\TestApi.NetForemost\\Common.NetForemost\\Common.NetForemost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Oscar Jimenez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

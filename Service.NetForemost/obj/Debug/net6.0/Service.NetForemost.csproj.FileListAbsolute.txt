@@ -1,0 +1,17 @@
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Service.NetForemost.deps.json
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Service.NetForemost.dll
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Service.NetForemost.pdb
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Common.NetForemost.dll
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Persistence.NetForemost.dll
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Persistence.NetForemost.pdb
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\bin\Debug\net6.0\Common.NetForemost.pdb
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.csproj.AssemblyReference.cache
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.AssemblyInfoInputs.cache
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.AssemblyInfo.cs
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.csproj.CopyComplete
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.dll
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\refint\Service.NetForemost.dll
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\Service.NetForemost.pdb
+C:\Users\Oscar Jimenez\source\repos\TestApi.NetForemost\Service.NetForemost\obj\Debug\net6.0\ref\Service.NetForemost.dll
